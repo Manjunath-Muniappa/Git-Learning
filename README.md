@@ -1,2 +1,3 @@
-# Git-Learning
-This is a simple repository for learning.
+# Simple Example Repository
+
+This is just an example repository for training purposes.
